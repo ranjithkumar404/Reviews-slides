@@ -6,11 +6,11 @@ const People = () => {
     const { id, name, image, about } = character[i]
     const setPrev = () => {
 
-        setI((i)=>{
-        if(i-1 <0)
-        return 4
-        else
-        return i-1
+        setI((i) => {
+            if (i - 1 < 0)
+                return 4
+            else
+                return i - 1
         })
 
     }
@@ -25,7 +25,7 @@ const People = () => {
 
     return (
         <div className=' bg-orange-500 rounded-lg p-5 shadow-xl  w-[500px] grid gap-3 text-white place-items-center ' key={id}>
-            <img className='rounded-full' src={image} alt='' />
+            <img className='rounded-full w-[200px] ' src={image} alt='' />
             <p className='text-3xl font-bold '>{name}</p>
             <p className='text-lg'>{about}</p>
             <div className='flex space-x-3 text-xl'>

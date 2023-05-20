@@ -4,7 +4,7 @@ function App() {
     <div className="App">
       <div className="flex justify-center items-center  h-screen">
      <People/>
-
+       
       </div>
 
 
