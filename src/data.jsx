@@ -1,6 +1,6 @@
 const people = [
     {
-        
+
         id: 1,
         name: 'Tanjiro Kamado',
         image: 'https://drive.google.com/uc?export=view&id=1Bc3OTaXaUTOxoefCOV72yq9mQLoUWTLZ',
@@ -29,6 +29,18 @@ const people = [
         name: 'Muzan Kibutsuji',
         image: 'https://w0.peakpx.com/wallpaper/156/1017/HD-wallpaper-muzan-demon-demon-slayer-kimetsu-no-yaiba-tanjiro.jpg',
         about: 'Muzan Kibutsuji is the primary antagonist in the "Demon Slayer" series. He is the progenitor of demons and a ruthless, power-hungry creature. Muzan possesses immense strength, regeneration, and the ability to manipulate others into becoming demons. His pursuit of immortality drives the conflict in the story, as demon slayers strive to eradicate him and end his reign of terror.'
+    },
+    {
+        id: 6,
+        name: 'Inosuke Hashibira',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYjpcq5JIV0Beiz45toCrM_sDMv-NQ5guwQ&usqp=CAU',
+        about: "Inosuke Hashibira is a fierce and wild-spirited character in the 'Demon Slayer' series. With his boar's head mask and dual- wielding swords, Inosuke possesses remarkable physical strength and agility.Though brash and competitive, he harbors a loyal heart and gradually learns the importance of teamwork and compassion throughout his journey."
+    },
+    {
+        id: 7,
+        name: 'Kagaya Ubuyashiki',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9QH8HgAC78kYV9Bh8KB4LQ77jw-41rMvBoxWy4JbjCW9_44sNlDQa_thOlSnwBKvS33M&usqp=CAU',
+        about: 'Kagaya Ubuyashiki is a significant character in the "Demon Slayer" series. As the leader of the Demon Slayer Corps, he is a wise and respected figure. Kagaya is burdened with the responsibility of protecting humanity and guiding the demon slayers. He exhibits strong leadership, compassion, and unwavering dedication to the cause.'
     },
 
 ]

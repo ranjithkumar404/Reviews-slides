@@ -8,7 +8,7 @@ const People = () => {
 
         setI((i) => {
             if (i - 1 < 0)
-                return 4
+                return character.length - 1
             else
                 return i - 1
         })
